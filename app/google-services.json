@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1072782902962",
+    "firebase_url": "https://wifirssi-1d035-default-rtdb.firebaseio.com",
+    "project_id": "wifirssi-1d035",
+    "storage_bucket": "wifirssi-1d035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072782902962:android:12dff3c55f8127ad422bab",
+        "android_client_info": {
+          "package_name": "com.example.rssiwifi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuOR1rOtOmp-MMgLxPnmU23H-57rlMuHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
